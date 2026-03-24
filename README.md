@@ -12,7 +12,7 @@ Custom role management
 Repository pattern for data access
 Separation using Models and ViewModels
 Entity Framework Core migrations   
-
+ 
 Features
 ASP.NET Core Identity Integration
 IdentityDbContext-based authentication system
