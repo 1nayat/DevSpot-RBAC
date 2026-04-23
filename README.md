@@ -14,7 +14,7 @@ Separation using Models and ViewModels
 Entity Framework Core migrations    
  
 Features
-ASP.NET Core Identity Integration
+ASP.NET Core Identity Integration 
 IdentityDbContext-based authentication system
 Role-Based Authorization (Admin / User)
 User Registration and Login
