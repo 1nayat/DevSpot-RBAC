@@ -5,7 +5,7 @@ The system implements authentication, authorization, and role management using I
 
 Overview 
 DevSpot-RBAC demonstrates secure authentication and structured role-based authorization using ASP.NET Core Identity.
- 
+  
 The project includes:  
 Identity scaffolding for authentication UI     
 Custom role management 
