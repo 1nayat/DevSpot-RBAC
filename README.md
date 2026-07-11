@@ -8,7 +8,7 @@ DevSpot-RBAC demonstrates secure authentication and structured role-based author
     
 The project includes:   
 Identity scaffolding for authentication UI        
-Custom role management 
+Custom role management  
 Repository pattern for data access     
 Separation using Models and ViewModels       
 Entity Framework Core migrations         
