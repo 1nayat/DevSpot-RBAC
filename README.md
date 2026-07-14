@@ -4,7 +4,7 @@ A Role-Based Access Control (RBAC) web application built using ASP.NET Core MVC 
 The system implements authentication, authorization, and role management using IdentityDbContext, providing structured access control for different user roles.
 
 Overview 
-DevSpot-RBAC demonstrates secure authentication and structured role-based authorization using ASP.NET Core Identity. 
+DevSpot-RBAC demonstrates secure authentication and structured role-based authorization using ASP.NET Core Identity.  
     
 The project includes:   
 Identity scaffolding for authentication UI        
