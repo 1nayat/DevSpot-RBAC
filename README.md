@@ -17,7 +17,7 @@ Features
 ASP.NET Core Identity Integration   
 IdentityDbContext-based authentication system
 Role-Based Authorization (Admin / User)
-User Registration and Login 
+User Registration and Login  
 Role Management  
 Repository Pattern 
 Razor Views (MVC)
